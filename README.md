@@ -1,8 +1,8 @@
 # chat_app
 
-<h3>Clone Whatsapp</h3>
+<h2>Clone Whatsapp</h2>
 
-<h4><a href="https://www.instagram.com/reel/CnuZiAlDXjf/?igshid=YmMyMTA2M2Y=">Watch it on instagram</a></h4>
+<h4><a href="https://www.instagram.com/reel/CnuZiAlDXjf/?igshid=YmMyMTA2M2Y=">Watch the demo on instagram</a></h4>
 
 <img src="https://user-images.githubusercontent.com/99340578/213935690-2fcebce5-cd6c-4f39-ac27-5a5744c46151.png" width="250" height="500">   <img src="https://user-images.githubusercontent.com/99340578/213935784-df9d2048-a0e0-4e17-bbe0-00e5a6c17ff9.png" width="250" height="500">   <img src="https://user-images.githubusercontent.com/99340578/213934886-d3e41779-4fe1-4875-a08e-9f4689c837b9.png" width="250" height="500">
 
