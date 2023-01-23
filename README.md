@@ -1,6 +1,6 @@
-![Screenshot_1674415139](https://user-images.githubusercontent.com/99340578/213935690-2fcebce5-cd6c-4f39-ac27-5a5744c46151.png)
-![Screenshot_1674414337](https://user-images.githubusercontent.com/99340578/213935784-df9d2048-a0e0-4e17-bbe0-00e5a6c17ff9.png)
-![Screenshot_1674414324](https://user-images.githubusercontent.com/99340578/213934886-d3e41779-4fe1-4875-a08e-9f4689c837b9.png)
+<img src="https://user-images.githubusercontent.com/99340578/213935690-2fcebce5-cd6c-4f39-ac27-5a5744c46151.png" width="300" height="600">   <img src="https://user-images.githubusercontent.com/99340578/213935784-df9d2048-a0e0-4e17-bbe0-00e5a6c17ff9.png" width="300" height="600">   <img src="https://user-images.githubusercontent.com/99340578/213934886-d3e41779-4fe1-4875-a08e-9f4689c837b9.png" width="300" height="600">
+
+
 # chat_app
 
 Clone Whatsapp
